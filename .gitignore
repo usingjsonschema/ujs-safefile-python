@@ -1,0 +1,16 @@
+.project
+.settings/
+.pydevproject
+
+__pycache__/
+*.py[cod]
+
+MANIFEST
+build/
+dist/
+sdist/
+*.egg-info/
+
+docs/_build/
+docs/_static/
+docs/_templates/
